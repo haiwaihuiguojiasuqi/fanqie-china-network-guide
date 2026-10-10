@@ -1,6 +1,6 @@
 # 海外回国加速器使用指南：影音平台与国服游戏
 
-在国外看视频、听音乐遇到地区限制或播放卡顿，可以使用**番茄回国加速器**连接国内影音线路，再重新打开目标平台。下面按平台整理原因和具体操作，点击对应专题即可开始。
+在国外看视频、听音乐提示地区限制，通常与内容的播放地区范围有关。连接**番茄回国加速器**的国内影音线路，再重新打开目标平台播放。下面按平台提供连接步骤，并回答手机、电脑、直播、歌曲等具体问题。
 
 [下载番茄回国加速器](https://www.fanqiejsq.com/download/?utm_source=github&utm_medium=referral&utm_campaign=nine-platform-guides) · [番茄官网](https://www.fanqiejsq.com/?utm_source=github&utm_medium=referral&utm_campaign=nine-platform-guides) · [通用连接步骤](docs/connection-checklist.md)
 
@@ -9,9 +9,9 @@
 | 平台 | 专题入口 | 重点解决的问题 |
 | --- | --- | --- |
 | 腾讯视频 | [腾讯视频海外怎么看](docs/tencent-video.md) | 单集无法播放、地区提示、网页与 App 表现不同 |
-| 爱奇艺 | [国外怎么看爱奇艺](docs/iqiyi.md) | 海外播放提示、影视与体育入口、账号权益检查 |
-| 优酷 | [优酷在国外看不了怎么办](docs/youku.md) | 播放器加载、网页与客户端、电视与投屏问题 |
-| 咪咕视频 | [国外怎么看咪咕视频](docs/migu-video.md) | 体育直播、赛事详情、回放与卡顿 |
+| 爱奇艺 | [国外怎么看爱奇艺](docs/iqiyi.md) | 地区限制、手机与电脑、体育直播、付费内容 |
+| 优酷 | [优酷在国外看不了怎么办](docs/youku.md) | 地区提示、手机与电脑、部分剧集、直播 |
+| 咪咕视频 | [国外怎么看咪咕视频](docs/migu-video.md) | 地区限制、体育直播、手机与电脑、回放 |
 | CCTV5 | [海外怎么看 CCTV5](docs/cctv5.md) | 体育频道入口、节目表、直播时间与节目切换 |
 | 央视频 | [央视频在国外怎么看](docs/yangshipin.md) | 央视频的直播、回看、具体节目播放问题 |
 | QQ音乐 | [国外怎么听 QQ 音乐](docs/qq-music.md) | 歌曲播放、账号状态、播放与下载的区别 |
@@ -19,8 +19,8 @@
 | 喜马拉雅 | [喜马拉雅在国外怎么听](docs/ximalaya.md) | 专辑与单集、试听和购买、在线与离线收听 |
 | 哔哩哔哩（B站） | [海外怎么看 B 站](docs/bilibili.md) | 番剧与普通视频、具体集数的地区提示、账号权益 |
 | 芒果TV | [芒果 TV 在国外看不了怎么办](docs/mango-tv.md) | 正片与预告、具体节目提示、网页与 App 对照 |
-| 腾讯体育 | [国外怎么看腾讯体育](docs/tencent-sports.md) | 比赛时间、直播与回放、地区提示和网络缓冲 |
-| 全民K歌 | [国外怎么用全民K歌](docs/quanmin-kge.md) | 试听、伴奏、录音、歌房上麦与网络对照 |
+| 腾讯体育 | [国外怎么看腾讯体育](docs/tencent-sports.md) | 地区限制、比赛直播与回放、会员、美国比赛时间 |
+| 全民K歌 | [国外怎么用全民K歌](docs/quanmin-kge.md) | 地区提示、试听与伴奏、iOS设置、录唱和歌房 |
 | 搜狐视频 | [国外如何看搜狐视频](docs/sohu-video.md) | APP-4、具体集数、手机与电脑播放排查 |
 
 

@@ -54,6 +54,7 @@
 | 暗区突围国服 | [国外怎么玩暗区突围](docs/arena-breakout-cn.md) | 客户端与账号、对局连接和延迟 |
 | 第五人格国服 | [国外怎么玩第五人格](docs/identity-v-china.md) | 国服版本、登录和对局掉线 |
 | 金铲铲之战国服 | [国外怎么玩金铲铲之战](docs/golden-spatula.md) | 客户端、资源加载和对局延迟 |
+| 魔兽世界国服 | [国外怎么玩魔兽世界](docs/world-of-warcraft-cn.md) | 国服战网、原角色与团队副本延迟 |
 
 
 ## 怎么使用番茄？

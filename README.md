@@ -58,6 +58,7 @@
 | 金铲铲之战国服 | [国外怎么玩金铲铲之战](docs/golden-spatula.md) | 客户端、资源加载和对局延迟 |
 | 魔兽世界国服 | [国外怎么玩魔兽世界](docs/world-of-warcraft-cn.md) | 国服战网、原角色与团队副本延迟 |
 | 火影忍者手游国服 | [国外怎么玩火影忍者](docs/naruto-mobile-cn.md) | 格斗手游、原角色与决斗场延迟 |
+| QQ飞车手游国服 | [怎么在国外玩qq飞车手游](docs/qq-speed-mobile-cn.md) | 手游登录、原角色和竞速延迟 |
 
 
 ## 怎么使用番茄？

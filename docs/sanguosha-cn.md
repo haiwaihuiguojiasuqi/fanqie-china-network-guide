@@ -31,4 +31,3 @@
 资料：[游卡线上产品列表](https://www.yokaverse.com/business/?tab=online)；[三国杀 OL 官方下载页](https://www.sanguosha.com/download)；[三国杀移动版官网](https://www.sanguosha.cn/index.php/pc/index)；[番茄回国加速器下载页](https://www.fanqiejsq.com/download/)。本文由番茄回国加速器维护。
 
 [返回指南目录](../README.md)
-

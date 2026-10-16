@@ -67,6 +67,7 @@
 | 魔兽世界国服 | [国外怎么玩魔兽世界](docs/world-of-warcraft-cn.md) | 国服战网、原角色与团队副本延迟 |
 | 火影忍者手游国服 | [国外怎么玩火影忍者](docs/naruto-mobile-cn.md) | 格斗手游、原角色与决斗场延迟 |
 | QQ飞车手游国服 | [怎么在国外玩qq飞车手游](docs/qq-speed-mobile-cn.md) | 手游登录、原角色和竞速延迟 |
+| QQ飞车 PC 国服 | [国外怎么玩qq飞车](docs/qq-speed-pc-cn.md) | 端游安装、登录与比赛延迟排查 |
 | 刀塔2国服 | [国外怎么玩刀塔2](docs/dota2-cn.md) | 蒸汽平台、旧号接入与匹配延迟 |
 | 炉石传说国服 | [国外怎么玩炉石传说](docs/hearthstone-cn.md) | 国服账号绑定、手机电脑与对局延迟 |
 | QQ炫舞端游国服 | [国外怎么玩qq炫舞](docs/qq-dance-cn.md) | 端游安装、原角色与进房延迟 |

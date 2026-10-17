@@ -32,6 +32,7 @@
 | 番茄小说 | [番茄小说在日本用不了怎么办](docs/fanqie-novel.md) | 地区提示、章节阅读、听书和商店地区 |
 | 番茄畅听 | [番茄畅听国外打不开怎么办](docs/fanqie-changting-overseas.md) | 有声书单集提示、缓冲与关联产品区分 |
 | 抖音 | [在国外怎么看抖音](docs/douyin.md) | 地区提示、短视频播放和账号区分 |
+| 快手 | [在国外怎么看快手](docs/kuaishou-overseas.md) | 国内快手与 Kwai 区分、单条视频限制和美国使用判断 |
 | 央视影音 | [国外如何看央视影音](docs/cctv-yingyin.md) | 具体节目地区提示、直播与回看、手机电脑 |
 | 酷狗音乐 | [海外如何听酷狗](docs/kugou-music.md) | 歌曲地区提示、会员与手机电脑 |
 | 咪咕音乐 | [国外怎么用咪咕音乐](docs/migu-music.md) | 单曲地区提示、版权与手机播放 |

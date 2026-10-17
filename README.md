@@ -23,6 +23,7 @@
 | 芒果TV | [芒果 TV 在国外看不了怎么办](docs/mango-tv.md) | 正片与预告、具体节目提示、网页与 App 对照 |
 | 腾讯体育 | [国外怎么看腾讯体育](docs/tencent-sports.md) | 地区限制、比赛直播与回放、会员、美国比赛时间 |
 | 全民K歌 | [国外怎么用全民K歌](docs/quanmin-kge.md) | 地区提示、试听与伴奏、iOS设置、录唱和歌房 |
+| 唱吧 | [唱吧在国外打不开怎么办](docs/changba-overseas.md) | 伴奏地区提示、录音权限与会员权益排查 |
 | 搜狐视频 | [国外如何看搜狐视频](docs/sohu-video.md) | APP-4、具体集数、手机与电脑播放排查 |
 | 汽水音乐 | [汽水海外怎么听](docs/qishui-music.md) | 歌曲地区提示、手机电脑播放与换线 |
 | 西瓜视频 | [国外怎么看西瓜视频](docs/xigua-video.md) | 地区限制、手机电脑、直播与电视端 |

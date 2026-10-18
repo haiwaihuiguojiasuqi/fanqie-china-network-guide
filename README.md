@@ -16,6 +16,7 @@
 | CCTV5 | [海外怎么看 CCTV5](docs/cctv5.md) | 体育频道入口、节目表、直播时间与节目切换 |
 | CCTV-5+ 体育赛事 | [海外如何看cctv5+](docs/cctv5plus-overseas.md) | 独立频道直播、节目单与整场回看核对 |
 | 直播吧 | [直播吧地区限制怎么解除](docs/zhibo8-region.md) | 赛事列表、实际播放平台与回看区分 |
+| 六间房直播 | [国外怎么看六间房直播](docs/sixrooms-live-overseas.md) | 直播间地区提示、下播与房间管理区分 |
 | 央视少儿 CCTV-14 | [国外怎么看央视少儿](docs/cctv14-overseas.md) | 官方直播入口、节目回看与单节目地区提示 |
 | CCTV-4 中文国际 | [国外怎么看cctv4](docs/cctv4-overseas.md) | 亚欧美三版官方直播入口、节目单与单节目地区提示 |
 | CCTV-1 综合 | [cctv1海外直播怎么打开](docs/cctv1-overseas.md) | 官方频道、节目单与新闻联播整期回看 |

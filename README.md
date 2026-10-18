@@ -25,6 +25,7 @@
 | 哔哩哔哩（B站） | [海外怎么看 B 站](docs/bilibili.md) | 番剧与普通视频、具体集数的地区提示、账号权益 |
 | 芒果TV | [芒果 TV 在国外看不了怎么办](docs/mango-tv.md) | 正片与预告、具体节目提示、网页与 App 对照 |
 | 腾讯体育 | [国外怎么看腾讯体育](docs/tencent-sports.md) | 地区限制、比赛直播与回放、会员、美国比赛时间 |
+| 中国体育 zhibo.tv | [国外怎么看中国体育](docs/china-sports-overseas.md) | 赛事直播入口、单场购买与地区提示 |
 | 全民K歌 | [国外怎么用全民K歌](docs/quanmin-kge.md) | 地区提示、试听与伴奏、iOS设置、录唱和歌房 |
 | 唱吧 | [唱吧在国外打不开怎么办](docs/changba-overseas.md) | 伴奏地区提示、录音权限与会员权益排查 |
 | 搜狐视频 | [国外如何看搜狐视频](docs/sohu-video.md) | APP-4、具体集数、手机与电脑播放排查 |

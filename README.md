@@ -36,6 +36,7 @@
 | 抖音 | [在国外怎么看抖音](docs/douyin.md) | 地区提示、短视频播放和账号区分 |
 | 抖音直播 | [海外抖音怎么看直播](docs/douyin-live-overseas.md) | 官方直播分类、体育房间与单房间地区提示 |
 | 快手 | [在国外怎么看快手](docs/kuaishou-overseas.md) | 国内快手与 Kwai 区分、单条视频限制和美国使用判断 |
+| 好看视频 | [海外可以看好看视频吗](docs/haokan-video-overseas.md) | 官方短视频入口、手机端与单条播放提示 |
 | 央视影音 | [国外如何看央视影音](docs/cctv-yingyin.md) | 具体节目地区提示、直播与回看、手机电脑 |
 | 酷狗音乐 | [海外如何听酷狗](docs/kugou-music.md) | 歌曲地区提示、会员与手机电脑 |
 | 酷狗直播 | [国外怎么看酷狗直播](docs/kugou-live-overseas.md) | 网页房间号搜索、手机端与单房间地区提示 |

@@ -16,6 +16,7 @@
 | CCTV5 | [海外怎么看 CCTV5](docs/cctv5.md) | 体育频道入口、节目表、直播时间与节目切换 |
 | 央视少儿 CCTV-14 | [国外怎么看央视少儿](docs/cctv14-overseas.md) | 官方直播入口、节目回看与单节目地区提示 |
 | CCTV-4 中文国际 | [国外怎么看cctv4](docs/cctv4-overseas.md) | 亚欧美三版官方直播入口、节目单与单节目地区提示 |
+| CCTV-1 综合 | [cctv1海外直播怎么打开](docs/cctv1-overseas.md) | 官方频道、节目单与新闻联播整期回看 |
 | 央视频 | [央视频在国外怎么看](docs/yangshipin.md) | 央视频的直播、回看、具体节目播放问题 |
 | QQ音乐 | [国外怎么听 QQ 音乐](docs/qq-music.md) | 歌曲播放、账号状态、播放与下载的区别 |
 | 网易云音乐 | [国外如何听网易云音乐](docs/netease-cloud-music.md) | 灰色歌曲、歌单、同名歌曲不同版本 |

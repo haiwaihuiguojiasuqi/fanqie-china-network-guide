@@ -13,6 +13,7 @@
 | 爱奇艺体育 | [在国外怎么看爱奇艺体育直播](docs/iqiyi-sports.md) | 赛事地区提示、会员权益与回放 |
 | 优酷 | [优酷在国外看不了怎么办](docs/youku.md) | 地区提示、手机与电脑、部分剧集、直播 |
 | 咪咕视频 | [国外怎么看咪咕视频](docs/migu-video.md) | 地区限制、体育直播、手机与电脑、回放 |
+| 央视体育VIP | [央视体育vip在国外地区限制怎么办](docs/cctv-sports-vip-overseas.md) | 赛事地区提示、会员权限与直播回看区分 |
 | CCTV5 | [海外怎么看 CCTV5](docs/cctv5.md) | 体育频道入口、节目表、直播时间与节目切换 |
 | CCTV-5+ 体育赛事 | [海外如何看cctv5+](docs/cctv5plus-overseas.md) | 独立频道直播、节目单与整场回看核对 |
 | 直播吧 | [直播吧地区限制怎么解除](docs/zhibo8-region.md) | 赛事列表、实际播放平台与回看区分 |

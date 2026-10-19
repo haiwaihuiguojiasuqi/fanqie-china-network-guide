@@ -97,6 +97,7 @@
 | 暗区突围国服 | [国外怎么玩暗区突围](docs/arena-breakout-cn.md) | 客户端与账号、对局连接和延迟 |
 | 第五人格国服 | [国外怎么玩第五人格](docs/identity-v-china.md) | 国服版本、登录和对局掉线 |
 | 金铲铲之战国服 | [国外怎么玩金铲铲之战](docs/golden-spatula.md) | 客户端、资源加载和对局延迟 |
+| 新天龙八部国服端游 | [怎么在国外玩新天龙八部](docs/new-tianlong-pc-cn.md) | 经典与怀旧客户端、原区服、更新和连接延迟 |
 | 魔兽世界国服 | [国外怎么玩魔兽世界](docs/world-of-warcraft-cn.md) | 国服战网、原角色与团队副本延迟 |
 | 火影忍者手游国服 | [国外怎么玩火影忍者](docs/naruto-mobile-cn.md) | 格斗手游、原角色与决斗场延迟 |
 | QQ飞车手游国服 | [怎么在国外玩qq飞车手游](docs/qq-speed-mobile-cn.md) | 手游登录、原角色和竞速延迟 |

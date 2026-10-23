@@ -33,6 +33,7 @@
 | 喜马拉雅儿童 | [喜马拉雅儿童国外打不开怎么办](docs/ximalaya-kids.md) | 儿童版音频地区提示、会员类别与加载排查 |
 | 哔哩哔哩（B站） | [海外怎么看 B 站](docs/bilibili.md) | 番剧与普通视频、具体集数的地区提示、账号权益 |
 | B站已下载视频 | [如何国外看b站下载的视频呢](docs/bilibili-offline-overseas.md) | 离线缓存入口、地区提示、断网与会员权益 |
+| 小米盒子与电视 | [小米盒子海外版权限制怎么办](docs/xiaomi-box-overseas.md) | 片源地区范围、设备线路与投屏边界 |
 | 芒果TV | [芒果 TV 在国外看不了怎么办](docs/mango-tv.md) | 正片与预告、具体节目提示、网页与 App 对照 |
 | 腾讯体育 | [国外怎么看腾讯体育](docs/tencent-sports.md) | 地区限制、比赛直播与回放、会员、美国比赛时间 |
 | 中国体育 zhibo.tv | [国外怎么看中国体育](docs/china-sports-overseas.md) | 赛事直播入口、单场购买与地区提示 |

@@ -78,6 +78,7 @@
 | 糖豆 | [糖豆在国外地区限制怎么办](docs/tangdou-dance-overseas.md) | 广场舞视频地区提示、正背面版本与声音排查 |
 | 起点读书 | [起点读书国外打不开怎么办](docs/qidian-reading-overseas.md) | 同一章节的地区提示、收费权益与慢加载排查 |
 | QQ阅读 | [qq阅读-小说漫画电子书阅读器国外打不开怎么办](docs/qq-reading-overseas.md) | 同章地区提示、慢加载、QQ与微信账号及阅币区分 |
+| 手机知网 | [手机知网国外打不开怎么办](docs/mobile-cnki-overseas.md) | 国际版入口、全文权限、全球学术快报辨认与慢加载 |
 
 ## 国服游戏连接教程
 

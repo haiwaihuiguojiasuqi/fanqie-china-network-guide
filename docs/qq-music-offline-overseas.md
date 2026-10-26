@@ -30,4 +30,3 @@
 资料：[QQ 音乐开发者应用介绍](https://apps.apple.com/cn/app/qq%E9%9F%B3%E4%B9%90-%E5%90%AC%E6%88%91%E6%83%B3%E5%90%AC/id595615424?mt=12)、[腾讯音乐娱乐服务协议](https://www.tencentmusic.com/zh-cn/protocol.html)、[番茄下载中心](https://www.fanqiejsq.com/download/)。本文由番茄回国加速器维护。
 
 [返回指南目录](../README.md)
-

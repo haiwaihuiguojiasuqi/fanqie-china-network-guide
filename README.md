@@ -77,6 +77,7 @@
 | 企鹅体育 | [国外怎么看企鹅体育](docs/qie-sports.md) | 原官网迁移、具体赛事地区提示与直播状态 |
 | 糖豆 | [糖豆在国外地区限制怎么办](docs/tangdou-dance-overseas.md) | 广场舞视频地区提示、正背面版本与声音排查 |
 | 起点读书 | [起点读书国外打不开怎么办](docs/qidian-reading-overseas.md) | 同一章节的地区提示、收费权益与慢加载排查 |
+| QQ阅读 | [qq阅读-小说漫画电子书阅读器国外打不开怎么办](docs/qq-reading-overseas.md) | 同章地区提示、慢加载、QQ与微信账号及阅币区分 |
 
 ## 国服游戏连接教程
 

@@ -72,6 +72,7 @@
 | 懒人听书 | [懒人听书区域限制](docs/lazy-audio.md) | 有声书单集限制、会员权益与加载排查 |
 | 蜻蜓FM | [蜻蜓听书国外能听吗](docs/qingting-fm.md) | 电台和有声书播放、地区提示与加载排查 |
 | 荔枝 | [海外怎么听荔枝](docs/lizhi-audio.md) | 节目和音频收听、地区提示与账号条件 |
+| 花生FM（旧端已停服） | [花生fm在国外打不开怎么办](docs/huasheng-fm-overseas.md) | 佛山+新入口、原节目查找与已过期的权益迁移期限 |
 | 韩小圈（原韩剧TV） | [国外怎么看韩剧tv](docs/hanxiaoquan-hanju-tv.md) | 地区提示、官方入口与单集版权排查 |
 | 腾讯动漫 | [腾讯动漫国外打不开怎么办](docs/tencent-comics.md) | 漫画地区提示、章节加载与会员条件 |
 | 酷我畅听 | [海外怎么听酷我畅听](docs/kuwo-changting.md) | 听书地区提示、会员类型与缓存排查 |

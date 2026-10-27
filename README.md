@@ -54,6 +54,7 @@
 | 番茄小说 | [番茄小说在日本用不了怎么办](docs/fanqie-novel.md) | 地区提示、章节阅读、听书和商店地区 |
 | 番茄畅听 | [番茄畅听国外打不开怎么办](docs/fanqie-changting-overseas.md) | 有声书单集提示、缓冲与关联产品区分 |
 | 抖音 | [在国外怎么看抖音](docs/douyin.md) | 地区提示、短视频播放和账号区分 |
+| 抖音精选 | [抖音精选在国外地区限制怎么办](docs/douyin-selected-overseas.md) | 原合集单集、统一抖音账号、记录同步与跨App对照 |
 | 抖音直播 | [海外抖音怎么看直播](docs/douyin-live-overseas.md) | 官方直播分类、体育房间与单房间地区提示 |
 | 快手 | [在国外怎么看快手](docs/kuaishou-overseas.md) | 国内快手与 Kwai 区分、单条视频限制和美国使用判断 |
 | 好看视频 | [海外可以看好看视频吗](docs/haokan-video-overseas.md) | 官方短视频入口、手机端与单条播放提示 |

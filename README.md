@@ -60,6 +60,7 @@
 | 好看视频 | [海外可以看好看视频吗](docs/haokan-video-overseas.md) | 官方短视频入口、手机端与单条播放提示 |
 | 央视影音 | [国外如何看央视影音](docs/cctv-yingyin.md) | 具体节目地区提示、直播与回看、手机电脑 |
 | 酷狗音乐 | [海外如何听酷狗](docs/kugou-music.md) | 歌曲地区提示、会员与手机电脑 |
+| 酷狗唱唱 | [酷狗唱唱在国外打不开怎么办](docs/kugou-changchang-overseas.md) | 原伴奏地区提示、麦克风录音、上麦权限与作品发布 |
 | 酷狗直播 | [国外怎么看酷狗直播](docs/kugou-live-overseas.md) | 网页房间号搜索、手机端与单房间地区提示 |
 | 咪咕音乐 | [国外怎么用咪咕音乐](docs/migu-music.md) | 单曲地区提示、版权与手机播放 |
 | 1905电影网 | [国外怎么看1905电影网](docs/1905-movie.md) | 电影地区提示、CCTV6直播与回看 |

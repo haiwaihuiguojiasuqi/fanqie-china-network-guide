@@ -49,6 +49,7 @@
 | 汽水音乐 | [汽水海外怎么听](docs/qishui-music.md) | 歌曲地区提示、手机电脑播放与换线 |
 | 西瓜视频 | [国外怎么看西瓜视频](docs/xigua-video.md) | 地区限制、手机电脑、直播与电视端 |
 | 酷我音乐 | [酷我海外怎么听](docs/kuwo-music.md) | 地区提示、会员歌曲、手机电脑与换线 |
+| 酷我已下载歌曲 | [酷我下载的音乐国外能听吗](docs/kuwo-music-offline-overseas.md) | 原下载设备、会员到期、第三方设备与离线试播 |
 | 红果短剧 | [红果免费短剧国外打不开怎么办](docs/hongguo-short-drama.md) | 地区提示、片目播放和缓冲 |
 | 番茄小说 | [番茄小说在日本用不了怎么办](docs/fanqie-novel.md) | 地区提示、章节阅读、听书和商店地区 |
 | 番茄畅听 | [番茄畅听国外打不开怎么办](docs/fanqie-changting-overseas.md) | 有声书单集提示、缓冲与关联产品区分 |

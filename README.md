@@ -81,6 +81,7 @@
 | QQ阅读 | [qq阅读-小说漫画电子书阅读器国外打不开怎么办](docs/qq-reading-overseas.md) | 同章地区提示、慢加载、QQ与微信账号及阅币区分 |
 | 纵横小说 | [纵横小说国外打不开怎么办](docs/zongheng-novel-overseas.md) | 同章访问、章节订阅、旧会员下线与书币记录 |
 | 手机知网 | [手机知网国外打不开怎么办](docs/mobile-cnki-overseas.md) | 国际版入口、全文权限、全球学术快报辨认与慢加载 |
+| 虎嗅 | [虎嗅国外打不开怎么办](docs/huxiu-overseas.md) | 原文访问、妙投旧入口、订阅核对与图文视频加载 |
 
 ## 国服游戏连接教程
 

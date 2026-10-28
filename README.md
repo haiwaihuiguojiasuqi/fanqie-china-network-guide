@@ -12,6 +12,7 @@
 | 腾讯视频 | [腾讯视频海外怎么看](docs/tencent-video.md) | 单集无法播放、地区提示、网页与 App 表现不同 |
 | 腾讯视频已下载视频 | [在国外怎么看腾讯视频下载的视频](docs/tencent-video-offline-overseas.md) | 离线缓存试播、联网地区提示与电影权益区分 |
 | 爱奇艺 | [国外怎么看爱奇艺](docs/iqiyi.md) | 地区限制、手机与电脑、体育直播、付费内容 |
+| 爱奇艺VR（Glass版） | [爱奇艺vr(glass版)在国外地区限制怎么办](docs/iqiyi-vr-glass-overseas.md) | 联网设备、Glass与普通App入口、VR会员和显示问题区分 |
 | 爱奇艺已下载视频 | [爱奇艺下载完在国外能看吗](docs/iqiyi-offline-overseas.md) | 海外缓存播放、地域范围、会员到期与作品下线 |
 | 爱奇艺体育 | [在国外怎么看爱奇艺体育直播](docs/iqiyi-sports.md) | 赛事地区提示、会员权益与回放 |
 | 优酷 | [优酷在国外看不了怎么办](docs/youku.md) | 地区提示、手机与电脑、部分剧集、直播 |

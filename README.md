@@ -76,6 +76,7 @@
 | 映客直播 | [映客直播地区限制怎么解除](docs/inke-live-overseas.md) | 官方直播间、App 入口与单房间地区提示 |
 | 懒人听书 | [懒人听书区域限制](docs/lazy-audio.md) | 有声书单集限制、会员权益与加载排查 |
 | 蜻蜓FM | [蜻蜓听书国外能听吗](docs/qingting-fm.md) | 电台和有声书播放、地区提示与加载排查 |
+| 蜻蜓FM会员 | [蜻蜓会员出国能用吗](docs/qingting-membership-overseas.md) | 原账号权益、小说额外购买、游客记录与缓存授权区别 |
 | 荔枝 | [海外怎么听荔枝](docs/lizhi-audio.md) | 节目和音频收听、地区提示与账号条件 |
 | 花生FM（旧端已停服） | [花生fm在国外打不开怎么办](docs/huasheng-fm-overseas.md) | 佛山+新入口、原节目查找与已过期的权益迁移期限 |
 | 企鹅FM（旧服务已停运） | [企鹅fm在日本用不了怎么办](docs/penguin-fm-overseas.md) | 官方已购入口、原账号、原创录音与过期兑换安排 |

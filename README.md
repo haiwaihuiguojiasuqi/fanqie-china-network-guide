@@ -42,6 +42,7 @@
 | B站已下载视频 | [如何国外看b站下载的视频呢](docs/bilibili-offline-overseas.md) | 离线缓存入口、地区提示、断网与会员权益 |
 | 小米盒子与电视 | [小米盒子海外版权限制怎么办](docs/xiaomi-box-overseas.md) | 片源地区范围、设备线路与投屏边界 |
 | 芒果TV | [芒果 TV 在国外看不了怎么办](docs/mango-tv.md) | 正片与预告、具体节目提示、网页与 App 对照 |
+| 芒果TV已下载视频 | [如何国外看芒果tv下载的视频呢](docs/mango-offline-overseas.md) | 原机缓存、登录记录、游客数据与内容下线区别 |
 | 腾讯体育 | [国外怎么看腾讯体育](docs/tencent-sports.md) | 地区限制、比赛直播与回放、会员、美国比赛时间 |
 | 中国体育 zhibo.tv | [国外怎么看中国体育](docs/china-sports-overseas.md) | 赛事直播入口、单场购买与地区提示 |
 | 全民K歌 | [国外怎么用全民K歌](docs/quanmin-kge.md) | 地区提示、试听与伴奏、iOS设置、录唱和歌房 |

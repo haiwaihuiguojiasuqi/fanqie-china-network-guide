@@ -67,6 +67,7 @@
 | 酷狗唱唱 | [酷狗唱唱在国外打不开怎么办](docs/kugou-changchang-overseas.md) | 原伴奏地区提示、麦克风录音、上麦权限与作品发布 |
 | 酷狗直播 | [国外怎么看酷狗直播](docs/kugou-live-overseas.md) | 网页房间号搜索、手机端与单房间地区提示 |
 | 咪咕音乐 | [国外怎么用咪咕音乐](docs/migu-music.md) | 单曲地区提示、版权与手机播放 |
+| 咪咕已下载歌曲 | [咪咕下载的音乐国外能听吗](docs/migu-music-offline-overseas.md) | 原设备离线试播、云盘与本地文件、会员期限及重新下载区别 |
 | 1905电影网 | [国外怎么看1905电影网](docs/1905-movie.md) | 电影地区提示、CCTV6直播与回看 |
 | 乐视视频 | [乐视视频在国外地区限制怎么办](docs/le-video.md) | 影片地区提示、Pad与会员权益 |
 | 千千音乐 | [千千音乐国外能听吗](docs/qianqian-music.md) | 境外服务提示、单曲与登录 |

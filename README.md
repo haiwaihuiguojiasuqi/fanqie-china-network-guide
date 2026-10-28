@@ -8,6 +8,7 @@
 
 | 平台 | 专题入口 | 重点解决的问题 |
 | --- | --- | --- |
+| 国内应用下载 | [国外怎么下载国内软件](docs/china-app-download-overseas.md) | 官方发行入口、商店地区、安卓安装与下载失败区分 |
 | 风行视频 | [风行视频在国外地区限制怎么办](docs/funshion-video-overseas.md) | 免费与付费点播区别、地区提示及连接排查 |
 | 腾讯视频 | [腾讯视频海外怎么看](docs/tencent-video.md) | 单集无法播放、地区提示、网页与 App 表现不同 |
 | 腾讯视频已下载视频 | [在国外怎么看腾讯视频下载的视频](docs/tencent-video-offline-overseas.md) | 离线缓存试播、联网地区提示与电影权益区分 |

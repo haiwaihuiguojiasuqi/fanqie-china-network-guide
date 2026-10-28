@@ -64,6 +64,7 @@
 | 熊猫视频 | [熊猫视频在国外地区限制怎么办](docs/panda-video-overseas.md) | 原视频重试、旧电视直播与投屏功能变更区分 |
 | 央视影音 | [国外如何看央视影音](docs/cctv-yingyin.md) | 具体节目地区提示、直播与回看、手机电脑 |
 | 酷狗音乐 | [海外如何听酷狗](docs/kugou-music.md) | 歌曲地区提示、会员与手机电脑 |
+| 酷狗已下载歌曲 | [酷狗下载的音乐国外能听吗](docs/kugou-music-offline-overseas.md) | 原下载终端、会员失效恢复、文件迁移与单购区别 |
 | 酷狗唱唱 | [酷狗唱唱在国外打不开怎么办](docs/kugou-changchang-overseas.md) | 原伴奏地区提示、麦克风录音、上麦权限与作品发布 |
 | 酷狗直播 | [国外怎么看酷狗直播](docs/kugou-live-overseas.md) | 网页房间号搜索、手机端与单房间地区提示 |
 | 咪咕音乐 | [国外怎么用咪咕音乐](docs/migu-music.md) | 单曲地区提示、版权与手机播放 |

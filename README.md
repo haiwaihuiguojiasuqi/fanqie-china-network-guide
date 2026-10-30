@@ -56,6 +56,7 @@
 | 搜狐视频会员支付 | [在国外怎么开搜狐视频vip](docs/sohu-membership-payment-overseas.md) | 订单状态、扣款未到账与原账号核对 |
 | 汽水音乐 | [汽水海外怎么听](docs/qishui-music.md) | 歌曲地区提示、手机电脑播放与换线 |
 | 西瓜视频 | [国外怎么看西瓜视频](docs/xigua-video.md) | 地区限制、手机电脑、直播与电视端 |
+| 西瓜视频离线播放 | [如何国外看西瓜视频下载的视频呢](docs/xigua-offline-overseas.md) | 本机缓存、下线内容与设备排查 |
 | 酷我音乐 | [酷我海外怎么听](docs/kuwo-music.md) | 地区提示、会员歌曲、手机电脑与换线 |
 | 酷我已下载歌曲 | [酷我下载的音乐国外能听吗](docs/kuwo-music-offline-overseas.md) | 原下载设备、会员到期、第三方设备与离线试播 |
 | 红果短剧 | [红果免费短剧国外打不开怎么办](docs/hongguo-short-drama.md) | 地区提示、片目播放和缓冲 |

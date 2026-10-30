@@ -48,6 +48,7 @@
 | 芒果TV已下载视频 | [如何国外看芒果tv下载的视频呢](docs/mango-offline-overseas.md) | 原机缓存、登录记录、游客数据与内容下线区别 |
 | 腾讯体育 | [国外怎么看腾讯体育](docs/tencent-sports.md) | 地区限制、比赛直播与回放、会员、美国比赛时间 |
 | 中国体育 zhibo.tv | [国外怎么看中国体育](docs/china-sports-overseas.md) | 赛事直播入口、单场购买与地区提示 |
+| 欧冠赛季与赛制 | [欧洲冠军联赛几年一次？](docs/champions-league-cycle-format.md) | 每年一届、跨年赛季与晋级规则 |
 | 全民K歌 | [国外怎么用全民K歌](docs/quanmin-kge.md) | 地区提示、试听与伴奏、iOS设置、录唱和歌房 |
 | 全民K诗 | [全民k诗国外打不开怎么办](docs/quanmin-kshi-overseas.md) | 伴奏缓冲、麦克风收音、录制上传与账号核对 |
 | 唱鸭 | [唱鸭在国外打不开怎么办](docs/changya-overseas.md) | 歌曲地区提示、录制权限与作品发布区分 |

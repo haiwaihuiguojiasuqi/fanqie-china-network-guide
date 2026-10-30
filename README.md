@@ -53,6 +53,7 @@
 | 唱鸭 | [唱鸭在国外打不开怎么办](docs/changya-overseas.md) | 歌曲地区提示、录制权限与作品发布区分 |
 | 唱吧 | [唱吧在国外打不开怎么办](docs/changba-overseas.md) | 伴奏地区提示、录音权限与会员权益排查 |
 | 搜狐视频 | [国外如何看搜狐视频](docs/sohu-video.md) | APP-4、具体集数、手机与电脑播放排查 |
+| 搜狐视频会员支付 | [在国外怎么开搜狐视频vip](docs/sohu-membership-payment-overseas.md) | 订单状态、扣款未到账与原账号核对 |
 | 汽水音乐 | [汽水海外怎么听](docs/qishui-music.md) | 歌曲地区提示、手机电脑播放与换线 |
 | 西瓜视频 | [国外怎么看西瓜视频](docs/xigua-video.md) | 地区限制、手机电脑、直播与电视端 |
 | 酷我音乐 | [酷我海外怎么听](docs/kuwo-music.md) | 地区提示、会员歌曲、手机电脑与换线 |

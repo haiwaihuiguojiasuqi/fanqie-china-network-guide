@@ -86,6 +86,7 @@
 | 蜻蜓FM | [蜻蜓听书国外能听吗](docs/qingting-fm.md) | 电台和有声书播放、地区提示与加载排查 |
 | 蜻蜓FM会员 | [蜻蜓会员出国能用吗](docs/qingting-membership-overseas.md) | 原账号权益、小说额外购买、游客记录与缓存授权区别 |
 | 荔枝 | [海外怎么听荔枝](docs/lizhi-audio.md) | 节目和音频收听、地区提示与账号条件 |
+| 播客订阅与连接 | [播客只能听国内的国外听不了](docs/podcast-rss-overseas-troubleshooting.md) | 目录缺失、RSS订阅与单集故障 |
 | 花生FM（旧端已停服） | [花生fm在国外打不开怎么办](docs/huasheng-fm-overseas.md) | 佛山+新入口、原节目查找与已过期的权益迁移期限 |
 | 企鹅FM（旧服务已停运） | [企鹅fm在日本用不了怎么办](docs/penguin-fm-overseas.md) | 官方已购入口、原账号、原创录音与过期兑换安排 |
 | 韩小圈（原韩剧TV） | [国外怎么看韩剧tv](docs/hanxiaoquan-hanju-tv.md) | 地区提示、官方入口与单集版权排查 |

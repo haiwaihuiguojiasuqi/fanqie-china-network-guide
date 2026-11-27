@@ -37,6 +37,7 @@
 | QQ音乐 | [国外怎么听 QQ 音乐](docs/qq-music.md) | 歌曲播放、账号状态、播放与下载的区别 |
 | QQ音乐已下载歌曲 | [下载的qq音乐在国外可以听吗](docs/qq-music-offline-overseas.md) | 离线文件、联网地区提示与账号权益排查 |
 | 网易云音乐 | [国外如何听网易云音乐](docs/netease-cloud-music.md) | 灰色歌曲、歌单、同名歌曲不同版本 |
+| 网易云音乐一起听 | [网易云一起听国外受限怎么办？好友能听、自己没声音时怎么排查](docs/netease-listen-together-overseas.md) | 两端同曲试播、音频输出和好友邀请 |
 | 喜马拉雅 | [喜马拉雅在国外怎么听](docs/ximalaya.md) | 专辑与单集、试听和购买、在线与离线收听 |
 | 喜马拉雅儿童 | [喜马拉雅儿童国外打不开怎么办](docs/ximalaya-kids.md) | 儿童版音频地区提示、会员类别与加载排查 |
 | 哔哩哔哩（B站） | [海外怎么看 B 站](docs/bilibili.md) | 番剧与普通视频、具体集数的地区提示、账号权益 |

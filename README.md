@@ -25,6 +25,7 @@
 | 咪咕视频爱看版 | [国外怎么看咪咕视频爱看版？找直播、回看和地区提示排查](docs/migu-aikan-overseas.md) | 网页节目单、爱看版入口与直播回看 |
 | 央视体育VIP | [央视体育vip在国外地区限制怎么办](docs/cctv-sports-vip-overseas.md) | 赛事地区提示、会员权限与直播回看区分 |
 | CCTV5 | [海外怎么看 CCTV5](docs/cctv5.md) | 体育频道入口、节目表、直播时间与节目切换 |
+| CCTV-5 海外回放 | [cctv5海外直播回放怎么看？按节目单找回看和重播](docs/cctv5-replay-overseas.md) | 频道节目单、回看与重播、整场与集锦 |
 | CCTV-5+ 体育赛事 | [海外如何看cctv5+](docs/cctv5plus-overseas.md) | 独立频道直播、节目单与整场回看核对 |
 | 直播吧 | [直播吧地区限制怎么解除](docs/zhibo8-region.md) | 赛事列表、实际播放平台与回看区分 |
 | 六间房直播 | [国外怎么看六间房直播](docs/sixrooms-live-overseas.md) | 直播间地区提示、下播与房间管理区分 |

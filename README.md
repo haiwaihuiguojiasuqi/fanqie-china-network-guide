@@ -22,6 +22,7 @@
 | 优酷已下载视频 | [优酷缓存视频国外能看吗](docs/youku-offline-overseas.md) | 海外离线播放、地域授权、内容下线与账号权益 |
 | 优酷账号登录 | [国外能登录优酷吗](docs/youku-login-overseas.md) | 账号验证、片源地区提示与会员账号辨认 |
 | 咪咕视频 | [国外怎么看咪咕视频](docs/migu-video.md) | 地区限制、体育直播、手机与电脑、回放 |
+| 咪咕视频爱看版 | [国外怎么看咪咕视频爱看版？找直播、回看和地区提示排查](docs/migu-aikan-overseas.md) | 网页节目单、爱看版入口与直播回看 |
 | 央视体育VIP | [央视体育vip在国外地区限制怎么办](docs/cctv-sports-vip-overseas.md) | 赛事地区提示、会员权限与直播回看区分 |
 | CCTV5 | [海外怎么看 CCTV5](docs/cctv5.md) | 体育频道入口、节目表、直播时间与节目切换 |
 | CCTV-5+ 体育赛事 | [海外如何看cctv5+](docs/cctv5plus-overseas.md) | 独立频道直播、节目单与整场回看核对 |

@@ -51,6 +51,7 @@
 | 5G云TV | [5g云tv在国外地区限制怎么办](docs/5g-cloud-tv-overseas.md) | 官方境外服务范围、下载与包月权益区别 |
 | 芒果TV已下载视频 | [如何国外看芒果tv下载的视频呢](docs/mango-offline-overseas.md) | 原机缓存、登录记录、游客数据与内容下线区别 |
 | 腾讯体育 | [国外怎么看腾讯体育](docs/tencent-sports.md) | 地区限制、比赛直播与回放、会员、美国比赛时间 |
+| NBA 回放 | [国外怎么看nba回放？找整场录像、精简版和赛后集锦](docs/nba-game-replays-overseas.md) | 整场录像、转播限制时间和隐藏比分 |
 | 中国体育 zhibo.tv | [国外怎么看中国体育](docs/china-sports-overseas.md) | 赛事直播入口、单场购买与地区提示 |
 | 欧冠赛季与赛制 | [欧洲冠军联赛几年一次？](docs/champions-league-cycle-format.md) | 每年一届、跨年赛季与晋级规则 |
 | 全民K歌 | [国外怎么用全民K歌](docs/quanmin-kge.md) | 地区提示、试听与伴奏、iOS设置、录唱和歌房 |

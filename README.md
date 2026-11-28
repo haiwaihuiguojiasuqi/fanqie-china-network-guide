@@ -17,6 +17,7 @@
 | 爱奇艺VR（Glass版） | [爱奇艺vr(glass版)在国外地区限制怎么办](docs/iqiyi-vr-glass-overseas.md) | 联网设备、Glass与普通App入口、VR会员和显示问题区分 |
 | 爱奇艺小说 | [爱奇艺小说国外打不开怎么办](docs/iqiyi-novel-overseas.md) | 章节地区提示、苹果游客购买、小说会员及有声书付费区别 |
 | 爱奇艺已下载视频 | [爱奇艺下载完在国外能看吗](docs/iqiyi-offline-overseas.md) | 海外缓存播放、地域范围、会员到期与作品下线 |
+| 爱奇艺电影缓存 | [在国外如何用爱奇艺下载电影？找缓存入口与排查无法下载](docs/iqiyi-movie-download-overseas.md) | 下载许可、云影院有效期与进度中断 |
 | 爱奇艺体育 | [在国外怎么看爱奇艺体育直播](docs/iqiyi-sports.md) | 赛事地区提示、会员权益与回放 |
 | 优酷 | [优酷在国外看不了怎么办](docs/youku.md) | 地区提示、手机与电脑、部分剧集、直播 |
 | 优酷已下载视频 | [优酷缓存视频国外能看吗](docs/youku-offline-overseas.md) | 海外离线播放、地域授权、内容下线与账号权益 |
